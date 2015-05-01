@@ -1,7 +1,10 @@
 'use strict';
 
+
 describe("Transform", function() {
 
+  var transform = new Transform;
+  
   it("transforms one value", function() {
     var old = { 1: ["A"] };
     var expected = { a: 1 };
