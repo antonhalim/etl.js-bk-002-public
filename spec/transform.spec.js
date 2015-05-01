@@ -1,9 +1,6 @@
 'use strict';
 
-
-describe("Transform", function() {
-
-  var transform = new Transform;
+describe("transform", function() {
   
   it("transforms one value", function() {
     var old = { 1: ["A"] };
