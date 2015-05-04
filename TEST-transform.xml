@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" errors="0" failures="0" time="0.008" timestamp="2015-05-04T16:16:25">
+		<testcase classname="transform" name="transforms one value" time="0.004">
+		</testcase>
+		<testcase classname="transform" name="transforms more values" time="0">
+		</testcase>
+		<testcase classname="transform" name="transforms more keys" time="0">
+		</testcase>
+		<testcase classname="transform" name="transforms a full dataset" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
